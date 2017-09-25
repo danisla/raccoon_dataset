@@ -6,21 +6,21 @@
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>450</width>
-		<height>298</height>
+		<width>960</width>
+		<height>640</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
 		<name>heron</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>89</xmin>
-			<ymin>5</ymin>
-			<xmax>313</xmax>
-			<ymax>298</ymax>
+			<xmin>422</xmin>
+			<ymin>143</ymin>
+			<xmax>622</xmax>
+			<ymax>511</ymax>
 		</bndbox>
 	</object>
 </annotation>

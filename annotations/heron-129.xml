@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>heron-129.png</filename>
-	<path>/Users/disla/Projects/raccoon_dataset/images/heron-129.png</path>
+	<filename>heron-129.jpg</filename>
+	<path>/Users/disla/Projects/raccoon_dataset/images/heron-129.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -18,9 +18,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>6</xmin>
-			<ymin>23</ymin>
+			<ymin>24</ymin>
 			<xmax>322</xmax>
-			<ymax>378</ymax>
+			<ymax>335</ymax>
 		</bndbox>
 	</object>
 </annotation>
