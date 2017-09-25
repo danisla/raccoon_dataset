@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>heron-181.jpg</filename>
+	<path>/Users/disla/Projects/raccoon_dataset/images/heron-181.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>424</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heron</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>19</ymin>
+			<xmax>417</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>
